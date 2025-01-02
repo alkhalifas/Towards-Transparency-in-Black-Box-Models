@@ -1,4 +1,4 @@
-# Towards Transparency in Black-Box Models: Investigating Methods in Explainability for AI Systems
+# Towards Transparency in Black-Box Models: A Brief Review of Methods in Explainability for AI Systems
 
 ## Author
 **Saleh Alkhalifa**  
